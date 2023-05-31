@@ -41,7 +41,7 @@ button {
 .about {
   display: flex;
   align-items: center;
-  justify-content: space-e;
+  justify-content: space-evenly;
   padding-top: 115px;
   padding-bottom: 115px;
 
