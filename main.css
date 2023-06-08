@@ -113,6 +113,12 @@ button {
   max-width: 550px;
 }
 
+.about__more-btn {
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+}
+
 .form {
   background-color: #1d263a;
   color: #fff;
